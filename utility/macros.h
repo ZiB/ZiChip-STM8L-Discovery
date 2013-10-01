@@ -1,7 +1,7 @@
 /*
  * File: macros.h
  * Date: 28.01.2011
- * Denis Zheleznjakov @ ZiBlog.ru
+ * Denis Zheleznyakov aka ZiB @ http://ziblog.ru
  */
 
 #ifndef MACROS_H_

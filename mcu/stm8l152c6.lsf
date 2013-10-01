@@ -1,7 +1,7 @@
 #==========================================================
-#   File:   Linker Script File for STM8L151C8
+#   File:   Linker Script File for STM8L
 #   Date:   2011-10-08
-#	Denis Zheleznjakov @ ZiBlog.ru
+#	Denis Zheleznyakov aka ZiB @ http://ziblog.ru
 #==========================================================
 
 # флешь: константы

@@ -1,7 +1,7 @@
 /*
  *  File:   mcu_gpio.h
  *  Date:   23.01.2011
- *  Denis Zheleznjakov @ ZiBlog.ru
+ *  Denis Zheleznyakov aka ZiB @ http://ziblog.ru
  */
 
 #ifndef MCU_GPIO_H_
